@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Copperplate';
+    src: url('fonts/Copperplate.eot');
+    src: url('fonts/Copperplate.eot') format('embedded-opentype'),
+         url('fonts/Copperplate.woff2') format('woff2'),
+         url('fonts/Copperplate.woff') format('woff'),
+         url('fonts/Copperplate.ttf') format('truetype'),
+         url('fonts/Copperplate.svg#Copperplate') format('svg');
+}
